@@ -24,12 +24,8 @@
       <file leaf-file-name="Pool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -44,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -57,6 +56,7 @@
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -164,23 +164,23 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25321338" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="right" id="Commander" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="3" />
     </layout>
   </component>
@@ -195,6 +195,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
@@ -204,21 +218,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
